@@ -7,3 +7,4 @@ I have created custom accordion using angularjs.I need to have more control over
     <img  alt="Accordion-Directive-AngularJs" src="img/Angularjs-accordion.JPG"/>
 </p>
 
+
